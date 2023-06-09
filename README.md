@@ -18,7 +18,7 @@ Some of the most popular sights in Tokyo include:
 - Ginza: A luxury shopping district, with a multitude of international brand stores and Japanese designer boutiques.
 - Tsukiji Market: One of the largest fish markets in the world, offering a variety of fresh seafood and delicious sushi.
 
-EThese are just a few examples of the many tourist attractions Tokyo has to offer.
+These are just a few examples of the many tourist attractions Tokyo has to offer.
 
 By analyzing Airbnb data, we can gain valuable insights into the most popular neighborhoods and available accommodation in the city.
 
