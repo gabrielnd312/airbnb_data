@@ -48,6 +48,6 @@ In this project, we will use data science and Python programming techniques to e
 
 I hope this project provides useful information for anyone interested in visiting or staying in Tokyo, as well as data science and data analysis enthusiasts.
 
-Link to the article of this project on Medium:
---- Overview of Airbnb in Tokyo, Japan. => bit.ly/3qDPQeD
+# Link to the article of this project on Medium:
+--- Overview of Airbnb in Tokyo, Japan. => http://bit.ly/3qDPQeD
    
