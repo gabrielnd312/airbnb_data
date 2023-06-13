@@ -47,3 +47,7 @@ Analyzing these questions will allow us to gain valuable insights into the Tokyo
 In this project, we will use data science and Python programming techniques to explore, visualize and analyze this data in order to gain a deeper understanding of the market.
 
 I hope this project provides useful information for anyone interested in visiting or staying in Tokyo, as well as data science and data analysis enthusiasts.
+
+Link to the article of this project on Medium:
+--- Overview of Airbnb in Tokyo, Japan. => bit.ly/3qDPQeD
+   
